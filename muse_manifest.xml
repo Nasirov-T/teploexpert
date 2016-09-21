@@ -1,0 +1,119 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tep.loc" resolutions="1x" timestamp="1474438706529">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="84168525" ref="index"/>
+    <file name="spasibo.css" crc="410701024" ref="spasibo"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ptsansnarrowbold.woff" crc="3782652990"/>
+    <file name="ptsansnarrowbold.eot" crc="4116609010"/>
+    <file name="opensansbold.woff" crc="259848611"/>
+    <file name="opensansbold.eot" crc="4179066820"/>
+    <file name="opensansregular.woff" crc="325372981"/>
+    <file name="opensansregular.eot" crc="288686992"/>
+    <file name="bebasbold.woff" crc="3872933733"/>
+    <file name="bebasbold.eot" crc="149665998"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:spasibo"/>
+    <file name="museutils.js" crc="531812214" ref="index:spasibo"/>
+    <file name="whatinput.js" crc="84559013" ref="index:spasibo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index"/>
+    <file name="webpro.js" crc="4156477058" ref="index"/>
+    <file name="form_check.php" crc="373582055" ref="index"/>
+    <file name="form_throttle.php" crc="211381018" ref="index"/>
+    <file name="form_process.php" crc="6354943" ref="index"/>
+    <file name="form-u218.php" crc="228336025" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:spasibo"/>
+    <file name="form-u1998.php" crc="3859746998" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="header-bg.jpg" crc="65171562" ref="index"/>
+    <file name="technology_articles_142.jpg" crc="4003374859" ref="index"/>
+    <file name="u228-17.png" crc="411124864" ref="index"/>
+    <file name="u228-17-r.png" crc="523754916" ref="index"/>
+    <file name="u228-17-m.png" crc="494727222" ref="index"/>
+    <file name="u228-17-fs.png" crc="3943129020" ref="index"/>
+    <file name="225510411_64566_16181091581180047157-crop-u460.jpg" crc="3786504999" ref="index"/>
+    <file name="225510466_95349_18097116160532299950282x212.jpg" crc="394819313" seo="true" ref="index"/>
+    <file name="225511124_94208_597067677013566985-crop-u878.jpg" crc="1049224" ref="index"/>
+    <file name="225511813_64459_678531709468585658-crop-u898.jpg" crc="3885254922" ref="index"/>
+    <file name="225512151_63800_3519183872417832908-crop-u918.jpg" crc="4144683006" ref="index"/>
+    <file name="225512862_94021_13107664584943928910282x212.jpg" crc="3785246058" seo="true" ref="index"/>
+    <file name="225513312_64548_3300755138832256010-crop-u958.jpg" crc="412190590" ref="index"/>
+    <file name="225515554_93644_8025844191883712718-crop-u978.jpg" crc="3920304684" ref="index"/>
+    <file name="225515936_65695_15137303555085092194-crop-u998.jpg" crc="188821015" ref="index"/>
+    <file name="225515999_64338_15853834393598037287-crop-u1018.jpg" crc="4106472652" ref="index"/>
+    <file name="225516239_65205_5302156940450777578282x211.jpg" crc="412680524" seo="true" ref="index"/>
+    <file name="225516723_94062_2495790695904475793282x212.jpg" crc="4082993119" seo="true" ref="index"/>
+    <file name="225516877_65182_17649452495973246941282x211.jpg" crc="3859563955" seo="true" ref="index"/>
+    <file name="225516884_93941_7294072933792148104-crop-u1098.jpg" crc="193157843" ref="index"/>
+    <file name="225517325_65993_15824758640793833106-crop-u1138.jpg" crc="4161279884" ref="index"/>
+    <file name="225517433_65322_291430461307396587-crop-u1158.jpg" crc="4012564299" ref="index"/>
+    <file name="225517642_64401_14937750133123139493282x211.jpg" crc="325487920" seo="true" ref="index"/>
+    <file name="225518601_64575_15098047777061357440-crop-u1198.jpg" crc="364160828" ref="index"/>
+    <file name="225519060_65057_14720598765509547069 (1)282x211.jpg" crc="59219616" seo="true" ref="index"/>
+    <file name="225519200_65122_12254506640593977632282x211.jpg" crc="4271805520" seo="true" ref="index"/>
+    <file name="225519651_94721_10420065973950063306282x212.jpg" crc="128995046" seo="true" ref="index"/>
+    <file name="225519943_94845_13583899082199446760282x212.jpg" crc="410180966" seo="true" ref="index"/>
+    <file name="225520112_64529_7486192673794265090282x211.jpg" crc="4240739805" seo="true" ref="index"/>
+    <file name="225520394_64387_5150168641482331296282x211.jpg" crc="277682324" seo="true" ref="index"/>
+    <file name="225520469_64780_5923178551405460534282x211.jpg" crc="4288717923" seo="true" ref="index"/>
+    <file name="225521671_65241_475246651268066629282x211.jpg" crc="3849018539" seo="true" ref="index"/>
+    <file name="225521998_64693_7846413235241754132282x212.jpg" crc="4289103680" seo="true" ref="index"/>
+    <file name="225522283_65478_9480567421867213893-crop-u1418.jpg" crc="4067610393" ref="index"/>
+    <file name="225523444_64943_13076418039016116244282x211.jpg" crc="4203945530" seo="true" ref="index"/>
+    <file name="225524515_65178_7119236408251111760282x211.jpg" crc="4022540762" seo="true" ref="index"/>
+    <file name="225524779_65064_3096625500384579575313x176.jpg" crc="4116366533" seo="true" ref="index"/>
+    <file name="225524810_65282_14787288453319963097-crop-u1498.jpg" crc="447685110" ref="index"/>
+    <file name="713421236_111210_14735388842829755559282x211.jpg" crc="3884246057" seo="true" ref="index"/>
+    <file name="225510411_64566_16181091581180047157.jpg" crc="265996122" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="225510466_95349_18097116160532299950.jpg" crc="60469339" seo="true" ref="index"/>
+    <file name="225511124_94208_597067677013566985.jpg" crc="241422240" seo="true" ref="index"/>
+    <file name="225511813_64459_678531709468585658.jpg" crc="3932339868" seo="true" ref="index"/>
+    <file name="225512151_63800_3519183872417832908.jpg" crc="282725090" seo="true" ref="index"/>
+    <file name="225512862_94021_13107664584943928910.jpg" crc="3805489028" seo="true" ref="index"/>
+    <file name="225513312_64548_3300755138832256010.jpg" crc="201905334" seo="true" ref="index"/>
+    <file name="225515554_93644_8025844191883712718.jpg" crc="3911414878" seo="true" ref="index"/>
+    <file name="225515936_65695_15137303555085092194.jpg" crc="3847743366" seo="true" ref="index"/>
+    <file name="225515999_64338_15853834393598037287.jpg" crc="265389477" seo="true" ref="index"/>
+    <file name="225516239_65205_5302156940450777578.jpg" crc="4038837718" seo="true" ref="index"/>
+    <file name="225516723_94062_2495790695904475793.jpg" crc="213401870" seo="true" ref="index"/>
+    <file name="225516877_65182_17649452495973246941.jpg" crc="4038354089" seo="true" ref="index"/>
+    <file name="225516884_93941_7294072933792148104.jpg" crc="3799403519" seo="true" ref="index"/>
+    <file name="225517325_65993_15824758640793833106.jpg" crc="199273384" seo="true" ref="index"/>
+    <file name="225517433_65322_291430461307396587.jpg" crc="4069192641" seo="true" ref="index"/>
+    <file name="225517642_64401_14937750133123139493.jpg" crc="4007570656" seo="true" ref="index"/>
+    <file name="225518601_64575_15098047777061357440.jpg" crc="512028359" seo="true" ref="index"/>
+    <file name="225519060_65057_14720598765509547069 (1).jpg" crc="102157618" seo="true" ref="index"/>
+    <file name="225519200_65122_12254506640593977632.jpg" crc="158756026" seo="true" ref="index"/>
+    <file name="225519651_94721_10420065973950063306.jpg" crc="515194753" seo="true" ref="index"/>
+    <file name="225519943_94845_13583899082199446760.jpg" crc="3954834946" seo="true" ref="index"/>
+    <file name="225520112_64529_7486192673794265090.jpg" crc="167185381" seo="true" ref="index"/>
+    <file name="225520394_64387_5150168641482331296.jpg" crc="4218572448" seo="true" ref="index"/>
+    <file name="225520469_64780_5923178551405460534.jpg" crc="71131713" seo="true" ref="index"/>
+    <file name="225521671_65241_475246651268066629.jpg" crc="4266495240" seo="true" ref="index"/>
+    <file name="225521998_64693_7846413235241754132.jpg" crc="27004819" seo="true" ref="index"/>
+    <file name="225522283_65478_9480567421867213893.jpg" crc="523862475" seo="true" ref="index"/>
+    <file name="225523444_64943_13076418039016116244.jpg" crc="119789653" seo="true" ref="index"/>
+    <file name="225524515_65178_7119236408251111760.jpg" crc="8992806" seo="true" ref="index"/>
+    <file name="225524779_65064_3096625500384579575.jpg" crc="3878869172" seo="true" ref="index"/>
+    <file name="225524810_65282_14787288453319963097.jpg" crc="296392517" seo="true" ref="index"/>
+    <file name="713421236_111210_14735388842829755559.jpg" crc="521240338" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="225511813_64459_6785317094685856582.jpg" crc="273004653" ref="index"/>
+    <file name="standard-fireplace.jpg" crc="3867189792" ref="index"/>
+    <file name="table.jpg" crc="3814729791" seo="true" ref="index"/>
+    <file name="u2000-17.png" crc="4119974076" ref="index"/>
+    <file name="u2000-17-r.png" crc="508321274" ref="index"/>
+    <file name="u2000-17-m.png" crc="456188691" ref="index"/>
+    <file name="u2000-17-fs.png" crc="4079110486" ref="index"/>
+  </folder>
+  <file name="index.html" crc="104047553" seo="true" mt="1474437960828" redirect="true"/>
+  <file name="spasibo.html" crc="268776779" seo="true" mt="1473924329237" redirect="false"/>
+</manifest>
